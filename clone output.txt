@@ -1,4 +1,4 @@
-$ git clone https://github.com/PetrutaM/git-introduction-prenumeNume.git
+i$ git clone https://github.com/PetrutaM/git-introduction-prenumeNume.git
 Cloning into 'git-introduction-prenumeNume'...
 remote: Enumerating objects: 6, done.
 remote: Counting objects: 100% (6/6), done.
